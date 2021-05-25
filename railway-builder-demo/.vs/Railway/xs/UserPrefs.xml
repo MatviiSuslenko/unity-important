@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{102004A8-8112-65D4-98BD-058594B136A1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ScrollAndPinch.cs">
+    <Files>
+      <File FileName="Assets/Railway/SoloBezierTest.cs" Line="21" Column="30" />
+      <File FileName="Assets/Railway/BezierPoint.cs" />
+      <File FileName="Assets/Railway/BezierPath.cs" Line="74" Column="27" />
+      <File FileName="Assets/Railway/Constants.cs" />
+      <File FileName="Assets/Railway/Bezier.cs" />
+      <File FileName="Assets/Editor/RwBuilderEditor.cs" />
+      <File FileName="Assets/Railway/RailwayBuilder.cs" />
+      <File FileName="../EnglishName/Ocean/Assets/Donut/Donut.cs" />
+      <File FileName="Assets/Railway/RailProfile.cs" />
+      <File FileName="Assets/Scripts/ScrollAndPinch.cs" Line="29" Column="1" />
+      <File FileName="Assets/DEBUG/D_ScrollAndPinch.cs" Line="40" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6d5d1fe2-3ab8-4477-87bf-10825ad9fee5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
